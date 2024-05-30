@@ -1,3 +1,3 @@
-# Crwdsourcing-Intelligence-in-Educational-Institutions
+# Crowdsourcing-Intelligence-in-Educational-Institutions
 The Crowd-Sourcing Intelligence in Educational Institutions (CSIEI) project offers a novel way to deal with issues that traditional educational methods continue to face. It offers various services to enable educators, administrators, and students to make wise decisions regarding their education and careers. These consist of placement analysis, student evaluations, graduate admissions forecasts, placement forecasts, and competitive communications. This commitment, therefore, by the CSIEI in creating such an environment provides them with the tools needed to navigate their educational journey and make decisions confidently in 
 the future.
